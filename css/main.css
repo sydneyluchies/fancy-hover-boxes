@@ -8,6 +8,10 @@ html {
 
 .hover-box-caption {
   color: #fff;
+  bottom: auto;
+  transition: none;
+  text-shadow: none;
+  background-image: none;
 }
 
 .hover-box:hover, .hover-box-caption {
